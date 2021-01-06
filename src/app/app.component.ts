@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'resume';
+  name = 'Josh Motta';
+  address = '555 None Of Your Business St New City, OH 12345';
+  phone = '(123) 456-7890';
+  email = 'Josh@email.com';
 }
