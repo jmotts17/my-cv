@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./education.component.css']
 })
 export class EducationComponent implements OnInit {
-
+  
+  title="Education";
   school1 = "Max Technical Training";
   program = "Full Stack Java Developer Bootcamp";
   start1 = "August 2020";
